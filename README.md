@@ -31,19 +31,13 @@ You can view the app running locally by following the installation and usage ins
 5. To delete a task, click the trash can icon next to the task you want to remove.
 
 ## Folder Structure
-
+```bash
 todo-list/
-
 │
-
 ├── Assets/
-
 │   └── favicon.png        # The app's favicon
-
 ├── index.html             # Main HTML file
-
 ├── style.css              # Styles for the Todo App
-
 └── app.js                 # JavaScript file for functionality
 
 
