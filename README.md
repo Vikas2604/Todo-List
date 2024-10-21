@@ -28,3 +28,5 @@ todo-list/
 ├── index.html             # Main HTML file
 ├── style.css              # Styles for the Todo App
 └── app.js                 # JavaScript file for functionality
+
+
