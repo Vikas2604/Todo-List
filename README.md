@@ -18,6 +18,17 @@ You can view the app running locally by following the installation and usage ins
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/Vikas2604/todo-list.git
+2. Navigate into the project directory.
+   ```bash
+   cd todo-app
+
+## Useage
+
+1. Open `index.html` in your browser.
+2. You will see an input field and an "ADD" button to add tasks.
+3. Type a task in the input field and press the "ADD" button. The task will be added to the list below.
+4. To mark a task as completed, click the checkbox next to the task. A checkmark will appear indicating the task is done.
+5. To delete a task, click the trash can icon next to the task you want to remove.
 
 ## Folder Structure
 
