@@ -35,6 +35,7 @@ You can view the app running locally by following the installation and usage ins
 todo-list/
 │
 ├── Assets/
+
 │   └── favicon.png        # The app's favicon
 
 ├── index.html             # Main HTML file
