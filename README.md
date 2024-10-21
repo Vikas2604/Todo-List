@@ -33,6 +33,7 @@ You can view the app running locally by following the installation and usage ins
 ## Folder Structure
 
 todo-list/
+
 │
 
 ├── Assets/
