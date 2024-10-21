@@ -29,5 +29,4 @@ todo-list/
 ├── style.css              # Styles for the Todo App
 └── app.js                 # JavaScript file for functionality
 
-This project is licensed under the MIT License - see the [LICENSE]([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([![License](Licsnse) file for details.
