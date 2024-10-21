@@ -23,10 +23,15 @@ You can view the app running locally by following the installation and usage ins
 
 todo-list/
 │
+
 ├── Assets/
+
 │   └── favicon.png        # The app's favicon
+
 ├── index.html             # Main HTML file
+
 ├── style.css              # Styles for the Todo App
+
 └── app.js                 # JavaScript file for functionality
 
 
